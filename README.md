@@ -14,4 +14,4 @@ python train.py
 
 Inference
 
-python detect.py 
+python detect.py --weights "Weight file path"
