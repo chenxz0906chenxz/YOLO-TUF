@@ -4,7 +4,9 @@ Install
 Clone repo and install requirements.txt in a Python>=3.8.0 environment, including PyTorch>=1.8.
 
 git clone https://github.com/chenxz0906chenxz/YOLO-TUF
+
 cd YOLO-TUF
+
 pip install -r requirements.txt  
 
 Training
